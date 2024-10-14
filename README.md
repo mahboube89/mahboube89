@@ -21,6 +21,10 @@
 <img alt="Restful API" src="https://img.shields.io/badge/-Restful%20API-008000?style=for-the-badge&logo=restful-api&logoColor=white" />
 <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
+<img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+<img alt="T-SQL" src="https://img.shields.io/badge/t--sql-%23007ACC.svg?style=for-the-badge&logo=tsql&logoColor=white" />
+<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ## How to Reach Me
