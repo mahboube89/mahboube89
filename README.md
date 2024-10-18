@@ -2,7 +2,7 @@
   Welcome to My GitHub Portfolio!
 </h1>
 
-<h4 align="center">I am a motivated Junior Fullstack Developer and career changer with a strong passion for learning and applying new technologies. My focus is on creating efficient, user-friendly applications while constantly improving my skills. I am always looking for new challenges and opportunities to grow.</h4>
+<h4 align="center">I am a motivated Fullstack Developer and career changer with a strong passion for learning and applying new technologies. My focus is on creating efficient, user-friendly applications while constantly improving my skills. I am always looking for new challenges and opportunities to grow.</h4>
 
 ## My Skills
 
